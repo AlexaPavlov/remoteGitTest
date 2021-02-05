@@ -1,0 +1,2 @@
+turns out - reset --hard does delete actual files
+so here she blows
