@@ -1,2 +1,4 @@
 test for reset
 don't fuck it up
+
+test for status and diff
