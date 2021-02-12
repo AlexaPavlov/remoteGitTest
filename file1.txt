@@ -1,1 +1,3 @@
 Hello, World!
+Testing new params on commit command
+Oh, hold it. --amend needs testing too.
