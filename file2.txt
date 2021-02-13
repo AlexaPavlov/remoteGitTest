@@ -6,3 +6,8 @@ so here she blows
 and by the way
 git diff only tracks differences in files commited into tree
 it doesn't see new unstaged stuff
+
+~!
+
+success on git remote add origin https://github.com/AlexaPavlov/remoteGitTest
+and then git push origin master
